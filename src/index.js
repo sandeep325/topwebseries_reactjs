@@ -8,7 +8,9 @@ import Cards from './Cards';
 function ncard_fun(val)
 {
    return(
-      <Cards imgsrc= {val.imgsrc}
+      <Cards
+       key={val.id}
+       imgsrc= {val.imgsrc}
              title={val.title}
              seriesname= {val.seriesname}
            watch_btn_link={val.watch_btn_link}

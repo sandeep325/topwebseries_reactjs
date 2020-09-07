@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/topwebseries_reactjs/static/css/main.3a147cd9.chunk.css",
+    "main.js": "/topwebseries_reactjs/static/js/main.a276cfef.chunk.js",
+    "main.js.map": "/topwebseries_reactjs/static/js/main.a276cfef.chunk.js.map",
+    "runtime-main.js": "/topwebseries_reactjs/static/js/runtime-main.fd234bf6.js",
+    "runtime-main.js.map": "/topwebseries_reactjs/static/js/runtime-main.fd234bf6.js.map",
+    "static/js/2.000887fa.chunk.js": "/topwebseries_reactjs/static/js/2.000887fa.chunk.js",
+    "static/js/2.000887fa.chunk.js.map": "/topwebseries_reactjs/static/js/2.000887fa.chunk.js.map",
+    "index.html": "/topwebseries_reactjs/index.html",
+    "precache-manifest.e23c060a3fcfee429a7bf500ede4ae29.js": "/topwebseries_reactjs/precache-manifest.e23c060a3fcfee429a7bf500ede4ae29.js",
+    "service-worker.js": "/topwebseries_reactjs/service-worker.js",
+    "static/css/main.3a147cd9.chunk.css.map": "/topwebseries_reactjs/static/css/main.3a147cd9.chunk.css.map",
+    "static/js/2.000887fa.chunk.js.LICENSE.txt": "/topwebseries_reactjs/static/js/2.000887fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd234bf6.js",
+    "static/js/2.000887fa.chunk.js",
+    "static/css/main.3a147cd9.chunk.css",
+    "static/js/main.a276cfef.chunk.js"
+  ]
+}
